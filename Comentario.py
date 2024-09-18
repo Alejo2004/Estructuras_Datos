@@ -1,0 +1,1 @@
+#Hola Mundo para el curso de estructuras de datos basados en lenguaje python
